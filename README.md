@@ -19,6 +19,10 @@ This C# and .NET 6.0-based application is designed for an unnamed information-ga
    - **Cameras** monitor a 90-degree field of view.
 3. **Pathfinding Algorithm**: The system calculates and returns the safest possible path for the agent to reach their objective, avoiding all obstacles.
 
+### Screenshot
+
+![ChessGame](./ChessGame.png)
+
 ### Code Structure
 
 - **Program.cs**: This is the entry point of the application. It contains the main method and the logic for the text-based menu system.
